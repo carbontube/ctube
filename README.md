@@ -1,2 +1,2 @@
 # ctube
-carbontube.io $CT
+carbontube.io $CTUBE
